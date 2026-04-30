@@ -1,3 +1,3 @@
 <p align="center">
-  ![THE HOTTEST COOKIE](https://static.wikia.nocookie.net/vsbattles/images/c/c1/Fire_Spirit_Cookie.png/revision/latest?cb=20211213152344)
+  <img src="https://static.wikia.nocookie.net/vsbattles/images/c/c1/Fire_Spirit_Cookie.png/revision/latest?cb=20211213152344)"
 </p>
