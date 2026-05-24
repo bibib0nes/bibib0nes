@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/vsbattles/images/c/c1/Fire_Spirit_Cookie.png/revision/latest?cb=20211213152344)"
+  <img src="https://static.wikia.nocookie.net/lifesteal/images/a/ae/Pangi_Skin.png/revision/latest/scale-to-width/360?cb=20220418200520"
 </p>
