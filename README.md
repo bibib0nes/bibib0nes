@@ -3,5 +3,5 @@
 </p>
   
 <p align="center">
- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bibib0nes)
+ bibi ou pangi
 </p>
