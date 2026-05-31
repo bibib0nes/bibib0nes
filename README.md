@@ -3,5 +3,5 @@
 </p>
   
 <p align="center">
- bibi ou pangi
-</p>
+ <img src="https://komarev.com/ghpvc/?username=bibib0nes&color=orange&label=^o^&style=plastic"
+   </p>
