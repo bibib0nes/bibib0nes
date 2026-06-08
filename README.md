@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/lifesteal/images/a/ae/Pangi_Skin.png/revision/latest/scale-to-width/360?cb=20220418200520"
+  <img src="https://i.postimg.cc/1tQvDqbj/hi-guys.png"
 </p>
   
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=bibib0nes&color=orange&label=^o^&style=plastic&base=278"
+ <img src="https://komarev.com/ghpvc/?username=bibib0nes&color=6bf516&label=^o^&style=plastic&base=278"
    </p>
