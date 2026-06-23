@@ -3,5 +3,5 @@
 </p>
   
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=bibib0nes&color=6bf516&label=beans&style=plastic&base=278"
+ <img src="https://komarev.com/ghpvc/?username=bibib0nes&color=red&label=beans&style=plastic&base=278"
    </p>
