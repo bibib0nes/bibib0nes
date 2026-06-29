@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/KYk2dVyq/MEANDTHEM.png"
+  <img src="https://file.garden/aj_EhZP7Y0S7D2gc/cute%20(1).png"
 </p>
   
 <p align="center">
